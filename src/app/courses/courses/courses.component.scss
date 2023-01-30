@@ -1,0 +1,14 @@
+
+mat-card {
+  margin: 30px auto;
+  width: 95%;
+}
+
+.loading-spinner{
+  background-color: rgba(0, 0, 0, 0.156);
+    mat-spinner{
+      width: 5px;
+      margin: 30px auto;
+    }
+}
+
